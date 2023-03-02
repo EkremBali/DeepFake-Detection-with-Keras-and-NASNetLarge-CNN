@@ -32,4 +32,4 @@
  
  ![Görüntü üzerinde tahmin](https://github.com/EkremBali/DeepFake-Detection-with-Keras-and-NASNetLarge-CNN/blob/main/images/gercek_Sahte_test.JPG)
  
- [Article](https://ieeexplore.ieee.org/document/10041558) – Technical Article
+ [Technical Article](https://ieeexplore.ieee.org/document/10041558)
