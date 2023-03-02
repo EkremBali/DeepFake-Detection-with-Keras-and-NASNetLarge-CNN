@@ -31,3 +31,5 @@
  For more detailed information about the model, you can read the technical article.
  
  ![Görüntü üzerinde tahmin](https://github.com/EkremBali/DeepFake-Detection-with-Keras-and-NASNetLarge-CNN/blob/main/images/gercek_Sahte_test.JPG)
+ 
+ [Article](https://ieeexplore.ieee.org/document/10041558) – Article
